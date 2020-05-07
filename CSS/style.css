@@ -1,0 +1,42 @@
+body {
+    background: #DEB0B0;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+h1 {
+    color: red;
+    font-family:  Calibri;
+}
+
+h2 {
+    font-family: Calibri;
+}
+
+p {
+    font-size: 18px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_parceiros {
+    margin-bottom: 5px;
+    width: 120px
+}
+
+.img_logo {
+    margin-bottom: 5px;
+    width: 30px
+}
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
